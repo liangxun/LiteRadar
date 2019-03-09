@@ -31,7 +31,7 @@ import logging.config
         2 : Clean smali files
         3 : Clean everything
 """
-CLEAN_WORKSPACE = 0
+CLEAN_WORKSPACE = 3
 
 """
     Database use db 0 as default
